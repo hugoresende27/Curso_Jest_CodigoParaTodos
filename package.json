@@ -1,0 +1,23 @@
+{
+  "name": "curso_jest_codigoparatodos",
+  "version": "1.0.0",
+  "description": "- [link](https://www.youtube.com/playlist?list=PL9sYD16GnIbd-o8ba4ig6kAWBDWmFjoKc)",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hugoresende27/Curso_Jest_CodigoParaTodos.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hugoresende27/Curso_Jest_CodigoParaTodos/issues"
+  },
+  "homepage": "https://github.com/hugoresende27/Curso_Jest_CodigoParaTodos#readme",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  }
+}
